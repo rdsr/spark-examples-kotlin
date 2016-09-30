@@ -1,0 +1,8 @@
+*.class
+*.jar
+.idea/
+bin/
+checkouts/
+classes/
+build/
+*.iml
